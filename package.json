@@ -4,11 +4,6 @@
   "description": "Jetbrains icons with some additional ones.",
   "version": "1.8.4",
   "publisher": "kreon-core",
-  "author": {
-    "name": "Crix Dang",
-    "email": "crix.dang@gmail.com",
-    "url": "https://github.com/crixdg"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/kreon-core/jetbrains-icons-for-vscode"
