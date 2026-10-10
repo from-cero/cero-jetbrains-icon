@@ -1,8 +1,8 @@
 {
   "name": "cero-jetbrains-icon",
-  "displayName": "Jetbrains Icons for VsCode",
+  "displayName": "Cero Jetbrains Icon",
   "description": "Jetbrains icons with some additional ones.",
-  "version": "1.8.12",
+  "version": "1.8.13",
   "publisher": "from-cero",
   "author": {
     "name": "Crix Dang",
